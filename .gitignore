@@ -1,0 +1,6 @@
+# ISO images: must not end up in the repository (nor in the Nix store)
+*.iso
+result
+result-*
+flake.lock.bak-*
+__pycache__/
