@@ -100,3 +100,8 @@ al primo build), Bambu Studio se attivato (escluso dalla cache ufficiale
 perché non libero), Visual Studio Code con una correzione alla ricetta nixpkgs,
 VM Station e gli script di gestione di questo repository. Elenco completo:
 pagina `Riferimenti` della wiki.
+
+## Licenza
+
+[MIT](LICENSE). Vale per il contenuto di questo repository; i componenti
+esterni mantengono le proprie licenze.
