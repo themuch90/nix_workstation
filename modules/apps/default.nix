@@ -10,6 +10,7 @@
     ./pinta.nix
     ./naps2.nix
     ./haruna.nix
+    ./obsstudio.nix
     ./solidcraft.nix
     ./prusaslicer.nix
     ./bambustudio.nix

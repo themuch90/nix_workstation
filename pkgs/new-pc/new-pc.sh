@@ -373,6 +373,7 @@ FEATURES=(
   "pinta|Pinta (drawing and photo editing)|on"
   "naps2|NAPS2 (scan to PDF)|on"
   "haruna|Haruna (video player)|on"
+  "obsstudio|OBS Studio (screen recording and streaming)|on"
   "solidcraft|SolidCraft (3D CAD, compiled: first build ~30 min)|on"
   "prusaslicer|PrusaSlicer (3D printing)|on"
   "bambustudio|Bambu Studio (Bambu Lab slicer, compiled: slow first build)|off"

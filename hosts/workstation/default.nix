@@ -107,6 +107,7 @@
     pinta.enable = true;            # drawing and photo editing
     naps2.enable = true;            # scan documents to PDF
     haruna.enable = true;           # video player (default for videos)
+    obsstudio.enable = true;        # screen recording and streaming
     solidcraft.enable = true;       # 3D parametric CAD (built from source: slow first rebuild)
     prusaslicer.enable = true;      # slicer for 3D printing
     bambustudio.enable = false;     # Bambu Lab slicer (built from source: slow first rebuild)
